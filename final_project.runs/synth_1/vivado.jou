@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Jul  6 12:41:28 2021
+# Process ID: 10524
+# Current directory: C:/Users/chris/Google Drive/FIU Classes/2021 Summer/EEL 4740/final_project/final_project.runs/synth_1
+# Command line: vivado.exe -log miniproject_ReflexTester.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source miniproject_ReflexTester.tcl
+# Log file: C:/Users/chris/Google Drive/FIU Classes/2021 Summer/EEL 4740/final_project/final_project.runs/synth_1/miniproject_ReflexTester.vds
+# Journal file: C:/Users/chris/Google Drive/FIU Classes/2021 Summer/EEL 4740/final_project/final_project.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source miniproject_ReflexTester.tcl -notrace
