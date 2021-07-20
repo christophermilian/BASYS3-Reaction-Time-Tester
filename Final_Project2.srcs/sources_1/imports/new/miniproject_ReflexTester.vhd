@@ -2,7 +2,7 @@
 -- Company: 
 -- Engineer: 
 -- 
--- Create Date: 11/06/2017 02:05:32 PM
+-- Create Date: 07/06/2021 02:05:32 PM
 -- Design Name: 
 -- Module Name: Reflex_Tester - Behavioral
 -- Project Name: 
@@ -54,7 +54,6 @@ Port ( CLK : in std_logic;
        Q : out std_logic); 
 end component;
 
-
 component lab4_seven_segment_display 
    port ( b          : in    std_logic_vector (15 downto 0); 
        clk        : in    std_logic; 
@@ -104,7 +103,6 @@ begin
               output_LED <= '0';
            end if;
 	        
-	       
 	       if (user_input = '1') then
 	           -- Got to decide this least count
 	           if (num > 1) then
@@ -123,8 +121,6 @@ begin
 	   end case;
 	end if;
 end process;
-
-
 
 process (clk)
 begin
