@@ -1,21 +1,25 @@
 #-----------------------------------------------------------
-# Vivado v2019.1 (64-bit)
-# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
-# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
-# Start of session at: Mon Jul 19 22:57:08 2021
-# Process ID: 20724
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Jul  6 13:53:34 2021
+# Process ID: 1972
 # Current directory: C:/Users/chris/Google Drive/FIU Classes/2021 Summer/EEL 4740/EEL4740_Final_Project
-# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15928 C:\Users\chris\Google Drive\FIU Classes\2021 Summer\EEL 4740\EEL4740_Final_Project\Final_Project2.xpr
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8084 C:\Users\chris\Google Drive\FIU Classes\2021 Summer\EEL 4740\EEL4740_Final_Project\final_project.xpr
 # Log file: C:/Users/chris/Google Drive/FIU Classes/2021 Summer/EEL 4740/EEL4740_Final_Project/vivado.log
 # Journal file: C:/Users/chris/Google Drive/FIU Classes/2021 Summer/EEL 4740/EEL4740_Final_Project\vivado.jou
 #-----------------------------------------------------------
 start_gui
-open_project {C:/Users/chris/Google Drive/FIU Classes/2021 Summer/EEL 4740/EEL4740_Final_Project/Final_Project2.xpr}
+open_project {C:/Users/chris/Google Drive/FIU Classes/2021 Summer/EEL 4740/EEL4740_Final_Project/final_project.xpr}
 INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
 Current project path is 'C:/Users/chris/Google Drive/FIU Classes/2021 Summer/EEL 4740/EEL4740_Final_Project'
+INFO: [Project 1-313] Project file moved from 'C:/Users/chris/Google Drive/FIU Classes/2021 Summer/EEL 4740/final_project' since last save.
 Scanning sources...
 Finished scanning sources
 INFO: [IP_Flow 19-234] Refreshing IP repositories
 INFO: [IP_Flow 19-1704] No user IP repositories specified
-INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.2/data/ip'.
+open_project: Time (s): cpu = 00:00:12 ; elapsed = 00:00:05 . Memory (MB): peak = 914.234 ; gain = 260.418
 update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Jul  6 14:12:36 2021...
