@@ -1,4 +1,4 @@
-# EEL4740_Final_Project
+# BASYS3 Reaction Time Tester
 A simple reaction time tester that measures how long the user took to press a button upon seeing an LED turn on.
 
 # Tooling and Software
